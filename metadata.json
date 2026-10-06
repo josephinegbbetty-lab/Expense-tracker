@@ -1,0 +1,8 @@
+{
+  "name": "Expense Tracker",
+  "description": "A beautiful, minimalist daily expense tracker with category breakdown, monthly budget alerts, and history filters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
